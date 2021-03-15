@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css.css">
+	<title></title>
+	
+	
+	
+
+</head>
+
+<body>
+	<section 1>
+	<div id="col-one">
+
+	<div class="picture-div">
+
+		
+		
+
+
+<div class="nav">
+
+
+<li class="logoli"><h1 class="logo">  ABC HOTEL </h1></li>
+	<ul>
+		
+		<a  href="" target="blank" class="active"> <li>Home </li> </a>
+		<a  href="" target="blank" class="active">  <li>About </li> </a>
+		<a  href="" target="blank" class="active"> <li>Resto & Bar </li> </a>
+		<a  href="" target="blank" class="active"> <li>Blog  </li> </a>
+		<a  href="" target="blank" class="active"> <li>Contact  </li> </a>
+	</ul>
+</div>
+	
+	
+	<div class="first-pic-headings">
+		<p class="first-p-heading">ENJOY YOUR WONDERFUL HOLIDAYS WITH A GREAT LUXURY EXPERIENCE!</p>
+
+		<h1 class="first-h1-heading">Most Relaxing Place</h1>
+		<button class="take-button">Take Tour </button>
+		</div>
+	</div>
+	<div class="check-in">
+
+
+	<label class="in">Check In</label> <label class="Out">Check Out</label> <label class="rooms">Rooms</label><label class="guest">Guests</label>
+		<br>
+		<input class="date-input" type="date" placeholder="check-in-date">
+		<input class="date-input" type="date" name="">
+		<!-- <input class="Suit" type="number" name=""> -->
+		<select name="select" class="Suit-select" ><option>SUITE</option><option>Family Room</option><option>Classic Room</option><option>Luxury Room</option> <br> </select>
+			
+
+			<select name="select" class="guest-select" ><option>1 Perosn</option><option>2-4 Perosn</option><option>4-9 Perosn</option><option>10-15 Perosn</option> 
+			</select>
+		
+
+
+
+	</div>	 
+</div>
+</section>
+
+<section 2>
+
+<div class="clear"></div>
+
+<br>
+<div class="check-avb">
+	
+<h1 class="check-avb-heading">Check <br>Availability</h1>
+
+</div>
+<br>
+
+<div class="cozy-room">
+	<img id="cozy-room-pic" src="cozyroom.jpg" width="150px;">
+	<h3 class="cozy-room-heading"> Cozy Room</h3> <br>
+	<p class="cozy-pera">Far far away, behind the<br> word mountains, far<br> from the countries<br> Vokalia.</p>
+
+</div>
+<div class="hotel-two">
+	<img src="hotel2.jpg">
+	
+</div>
+
+<span class="about-one ">ABOUT US</p><br></span>
+<span class="Hotel-Booking">Unwind A Hotel Booking Agency </span>
+
+<div class="clear"></div>
+
+<div class="hotel3">
+ <img src="hotel3.jpg">
+</div>
+
+<div class="special-offer">
+	<img id="special-offer-pic" src="cozyroom.jpg" width="150px;">
+	<h3 class="special-offer-heading">Special Offer</h3> <br>
+	<p class="special-offer-p">Far far away, behind the<br> word mountains, far<br> from the countries<br> Vokalia.</p>
+
+</div>
+
+<span class="special-offer-pera">
+ <p class="about-2">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+
+ <button class="book-room">Book Your Room Now</button>
+</span>
+
+</section>
+
+<div class="clear"></div>
+
+<section 3>
+<div class="Services-section">
+<span class="service"> 
+	<h3 class="unwind-service">UNWIND SERVICES </h3>
+	<h1 class="explor-hotel-service">Explore Our Hotel <br> Services</h1>
+</span>	
+</div>
+</section>
+<!-- <div class="clear"></div> -->
+<br>
+<section class="section-4">
+<div class="wifi">
+	<img class="wifi-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="free-wifi"> Free Wifi </p1>
+</div>
+<div class="booking-sec">
+	<img class="booking-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="easy-booking"> Easy Booking </p1>
+</div>
+<div class="resturant-sec">
+	<img class="resturant-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="resturant"> Resturant </p1>
+</div>
+<div class="Swiming-pool">
+	<img class="Swiming-pool-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="swiming"> Swiming Pool</p1>
+</div>
+<div class="play">
+	<img class="play-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="play-area"> Play Area</p1>
+</div>
+<div class="health">
+	<img class="health-pic" src="wifi.png" width="100px" > <br>
+	<p1 class="health-suport">Health & Support</p1>
+
+</div>
+</section>
+<div class="clear"></div>
+<section class="section-5">
+
+	<div class="hotel4">
+		<img class="hotel-4" src="hotel4.jpg" width="100%">
+		<span class="best-hotel"><h4>FIND BEST HOTEL FOR LEAVING</h4>
+			<h1 class="find-hotel">Find the Best Hotel in Your Next<br> Vacation</h1>
+			<button id="book-room">BOOK NOW</button>
+	</div>
+	<div class="our-rooms">
+		
+    <span class="service"> 
+	<h3 class="our-rooms">OUR ROOMS </h3>
+	<h1 class="feautre-room">Feautres Rooms</h1>
+</span>	
+
+
+
+	</div>
+
+
+
+
+
+
+
+</body>
+</html>

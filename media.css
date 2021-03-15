@@ -1,0 +1,38 @@
+body{
+	background-color: red;
+}
+@media screen and (max-width: 980px) {
+  body {
+    background-color: lightgreen;
+
+  }
+  .my-guest{
+  	margin-left: 150px;
+  }
+  .rating-guest{
+  	width: 100%
+  	margin-left:500px;
+  }
+  .our-resturant{
+  	margin-left: 100px;
+  }
+  .restu-rates-area{
+  	margin-left: 100px;
+  	width: 80%;
+  }
+  .restu-one{
+  	position: relative;
+  	float: right;
+  	
+  }
+  .rating-guest{
+  	margin-left: 200px;
+  	width: 80%;
+  }
+  .last-section{
+  	width: 100%;
+
+  }
+}
+
+
